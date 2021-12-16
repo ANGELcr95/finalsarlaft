@@ -229,7 +229,6 @@ ref34b.src="./sonidos/Pagina18/18b.mp3";
         setTimeout(() => {
             puntos6.classList.remove("emergentes");
             puntos6.classList.add("emergentesreturn");
-            refexito.play()
             questioncuatro.style.display = " none"
         }, 7000);
 
